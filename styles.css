@@ -1,0 +1,15 @@
+body {
+  background-color: #e9e2d5;
+}
+h1 {
+  text-align: center;
+}
+footer{
+  font-size:10px;
+  text-align: left;
+}
+figure { float: left;
+margin:5px;}
+figures2 {
+  font-size:13px;
+}
